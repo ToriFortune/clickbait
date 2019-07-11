@@ -1,3 +1,11 @@
+Clickbait is a full stack game created using react and other technologies
+Unsplash is the source of the images used
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

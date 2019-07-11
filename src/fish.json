@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Beta",
+    "image": "public/images/beta.jpg",
+    "clicked": false
+  }
+  {
+    "id": 2,
+    "name": "clown",
+    "image": "public/images/clown.jpg",
+    "clicked": false
+  }
+  {
+    "id": 3,
+    "name": "gold",
+    "image": "public/images/gold.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "jelly",
+    "image": "public/images/jelly.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "koi",
+    "image": "public/images/koi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "octopus",
+    "image": "public/images/octopus.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "seahorse",
+    "image": "public/images/seahorse.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "star",
+    "image": "public/images/star.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "tang",
+    "image": "public/images/tang.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "tigershark",
+    "image": "public/images/tigershark.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "turtle",
+    "image": "public/images/turtle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 1,
+    "name": "stingray",
+    "image": "public/images/stingray.jpg",
+    "clicked": false
+  }
+]

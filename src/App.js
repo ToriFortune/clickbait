@@ -1,6 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import AnimalCard from "./component/animalcard/";
+import Wrapper from "./component/wrapper";
+import Title from "./component/title"
+
+
+
+
+// To do REFACTOR APP.JS STARTER CODE STARTING FROM BELOW COMMENTS, INCLUDE OTHER FILES TO BE IMPORTED CSS
+
+
+import "."
+
+
+
+
+
+
+
 
 function App() {
   return (
