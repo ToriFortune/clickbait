@@ -3,72 +3,84 @@
     "id": 1,
     "name": "Beta",
     "image": "public/images/beta.jpg",
-    "clicked": false
-  }
+    "clicked": false,
+    "tagline": "I prefer to be called Alpha"
+  },
   {
     "id": 2,
     "name": "clown",
     "image": "public/images/clown.jpg",
-    "clicked": false
-  }
+    "clicked": false,
+    "tagline": "Bozo learnt from me"
+  },
   {
     "id": 3,
     "name": "gold",
     "image": "public/images/gold.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Worth more than my weight"
   },
   {
     "id": 4,
     "name": "jelly",
     "image": "public/images/jelly.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "I am never scared"
   },
   {
     "id": 5,
     "name": "koi",
     "image": "public/images/koi.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Good koi!"
   },
   {
     "id": 6,
     "name": "octopus",
     "image": "public/images/octopus.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Always willing to lend a hand"
   },
   {
     "id": 7,
     "name": "seahorse",
     "image": "public/images/seahorse.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Why blend in when you look like me?"
   },
   {
     "id": 8,
     "name": "star",
     "image": "public/images/star.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Still waiting on my hollywood recognition"
   },
   {
     "id": 9,
     "name": "tang",
     "image": "public/images/tang.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Looking for my ting"
   },
   {
     "id": 10,
     "name": "tigershark",
     "image": "public/images/tigershark.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "The great white could never!"
   },
   {
     "id": 11,
     "name": "turtle",
     "image": "public/images/turtle.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Not a fan of technology "
   },
   {
-    "id": 1,
+    "id": 12,
     "name": "stingray",
     "image": "public/images/stingray.jpg",
-    "clicked": false
+    "clicked": false,
+    "tagline": "Everyone loves this Ray but the Irwins"
   }
 ]
