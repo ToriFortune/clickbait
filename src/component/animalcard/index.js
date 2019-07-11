@@ -10,5 +10,5 @@ function AnimalCard (props){
         </div>
     )
 }
-
+//  To do: review activity 29 of class exercise, replicate other components to match activity. review and confirm imports.
 export default AnimalCard;
