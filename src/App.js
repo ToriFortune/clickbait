@@ -48,7 +48,7 @@ this.setState(
 
 }
 
-
+// to review https://javascript.info/task/shuffle look for shuffle script
 
 
 
