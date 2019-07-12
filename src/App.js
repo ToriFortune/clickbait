@@ -2,7 +2,9 @@ import React, { Component } from "react";
 import AnimalCard from "./component/animalcard/";
 import Wrapper from "./component/wrapper";
 import Title from "./component/title"
-import fish from "./fish.json";
+import fish from "./fishes.json";
+import Row from "./component/row"
+import "./App.css";
 
 
 
@@ -52,7 +54,7 @@ this.setState(
 
 
 render(){
-  return <div> Hello Worl</div>
+  return <div> Hello World</div>
 }
 
 }
