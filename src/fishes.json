@@ -2,84 +2,84 @@
   {
     "id": 1,
     "name": "Beta",
-    "image": "public/images/beta.jpg",
+    "image": "build/images/beta.jpg",
     "clicked": false,
     "tagline": "I prefer to be called Alpha"
   },
   {
     "id": 2,
     "name": "clown",
-    "image": "public/images/clown.jpg",
+    "image": "build/images/clown.jpg",
     "clicked": false,
     "tagline": "Bozo learnt from me"
   },
   {
     "id": 3,
     "name": "gold",
-    "image": "public/images/gold.jpg",
+    "image": "build/images/gold.jpg",
     "clicked": false,
     "tagline": "Worth more than my weight"
   },
   {
     "id": 4,
     "name": "jelly",
-    "image": "public/images/jelly.jpg",
+    "image": "build/images/jelly.jpg",
     "clicked": false,
     "tagline": "I am never scared"
   },
   {
     "id": 5,
     "name": "koi",
-    "image": "public/images/koi.jpg",
+    "image": "build/images/koi.jpg",
     "clicked": false,
     "tagline": "Good koi!"
   },
   {
     "id": 6,
     "name": "octopus",
-    "image": "public/images/octopus.jpg",
+    "image": "build/images/octopus.jpg",
     "clicked": false,
     "tagline": "Always willing to lend a hand"
   },
   {
     "id": 7,
     "name": "seahorse",
-    "image": "public/images/seahorse.jpg",
+    "image": "build/images/seahorse.jpg",
     "clicked": false,
     "tagline": "Why blend in when you look like me?"
   },
   {
     "id": 8,
     "name": "star",
-    "image": "public/images/star.jpg",
+    "image": "build/images/star.jpg",
     "clicked": false,
     "tagline": "Still waiting on my hollywood recognition"
   },
   {
     "id": 9,
     "name": "tang",
-    "image": "public/images/tang.jpg",
+    "image": "build/images/tang.jpg",
     "clicked": false,
     "tagline": "Looking for my ting"
   },
   {
     "id": 10,
     "name": "tigershark",
-    "image": "public/images/tigershark.jpg",
+    "image": "build/images/tigershark.jpg",
     "clicked": false,
     "tagline": "The great white could never!"
   },
   {
     "id": 11,
     "name": "turtle",
-    "image": "public/images/turtle.jpg",
+    "image": "build/images/turtle.jpg",
     "clicked": false,
     "tagline": "Not a fan of technology "
   },
   {
     "id": 12,
     "name": "stingray",
-    "image": "public/images/stingray.jpg",
+    "image": "build/images/stingray.jpg",
     "clicked": false,
     "tagline": "Everyone loves this Ray but the Irwins"
   }
