@@ -3,6 +3,7 @@ import AnimalCard from "./component/animalcard/";
 import Wrapper from "./component/wrapper";
 import Title from "./component/title"
 import fish from "./fishes.json";
+import Row from "./component/row"
 import "./App.css";
 
 

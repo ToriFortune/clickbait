@@ -1,7 +1,15 @@
 - Clickbait is a full stack game created using react and other technologies
-- Unsplash is the source of the images used
+- Unsplash is the source of the images used.
+- Click on ana object and never do so twice. 
+Technologies used include:
+- React
+- JS
+- Node
+- Bootstrap
+- CSS
 
-
+Developer:
+- Tori Fortune
 
 
 
