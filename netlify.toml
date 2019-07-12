@@ -1,4 +1,0 @@
-[build]
-base = "clickbait/"
-publish = "clickbait/build/"
-command = "npm build"
