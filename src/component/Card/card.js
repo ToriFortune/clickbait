@@ -4,7 +4,7 @@ import "./card.css";
 
 const Card = props => (
 
-    <div className="card col-md-3 col-sm-4" onClick={() => props.clickCOunt(props.name)}>
+    <div className="card col-md-3 col-sm-4" onClick={() => props.clickCOunt(props.id)}>
         <div className="img-container">
             <img src={props.image} alt={props.name} />
         </div>

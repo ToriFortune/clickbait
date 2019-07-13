@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import Card from "./component/Card";
+import Wrapper from "./component/Wrapper"
+import Card from "./component/Card"
 import Header from "./component/Header";
 import cards from "./cards.json";
 import "./App.css";
@@ -8,12 +9,12 @@ import "./App.css";
 
 // To do: REFACTOR APP.JS STARTER CODE STARTING FROM BELOW COMMENTS, INCLUDE OTHER FILES TO BE IMPORTED CSS
 
-class App extends Component{
-  state={
-    cards,
-    currentScore: 0,
-    topScore: 0
-  };
+// class App extends Component{
+//   state={
+//     cards,
+//     currentScore: 0,
+//     topScore: 0
+//   };
 
   class App extends Component {
     // Setting this.state.cards to the cards json array
