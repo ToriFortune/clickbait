@@ -1,0 +1,7 @@
+.wrapper {
+    background: blue;
+    height: 100%;
+    flex-flow: row;
+    padding: px;
+
+}
