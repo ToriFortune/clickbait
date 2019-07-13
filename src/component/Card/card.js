@@ -1,14 +1,13 @@
 import React from "react";
-import "./animalcard.css";
+import "./card.css";
 
 
-const AnimalCard = props => (
+const Card = props => (
 
-    <div className="card col-md-3 col-sm-4">
-        <img className="" src={props.image} alt={props.name} onClick={() => props.clickCard(props.name)}
-
-        />
-
+    <div className="card col-md-3 col-sm-4" onClick={() => props.clickCOunt(props.name)}>
+        <div className="img-container">
+            <img src={props.image} alt={props.name} />
+        </div>
     </div>
 );
 // return (
@@ -32,4 +31,4 @@ const AnimalCard = props => (
 //     )
 // }
 // //  To do: review activity 29 of class exercise, replicate other components to match activity. review and confirm imports.
-export default AnimalCard;
+export default Card;

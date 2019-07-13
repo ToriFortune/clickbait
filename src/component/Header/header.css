@@ -1,0 +1,14 @@
+.header {
+    font-size: 1.5rem;
+    background-color: aqua;
+    margin-bottom: 5px
+}
+
+.title {
+    font-size: 100%;
+    text-align: center;
+}
+.scores{
+    text-shadow: 0ch;
+    font-size: 2rem
+}
