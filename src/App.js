@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Wrapper from "./component/Wrappera"
+import Wrapper from "./component/Wrapper"
 import Card from "./component/Card"
 import Header from "./component/Header";
 import cards from "./cards.json";
@@ -33,7 +33,7 @@ import "./App.css";
       this.state.cards.forEach(card => {
         card.count = 0;
       });
-      alert(`Game Over :( \nscore: ${this.state.score}`);
+      alert(`Nice attempt, try again! :( \nscore: ${this.state.score}`);
       this.setState({score: 0});
       return true;
     }
