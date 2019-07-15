@@ -33,7 +33,8 @@ import "./App.css";
       this.state.cards.forEach(card => {
         card.count = 0;
       });
-      alert(`Nice attempt, try again! :( \nscore: ${this.state.score}`);
+      const msg = (`Nice attempt, try again! :( \nscore: ${this.state.score}`);
+      alert(msg);
       this.setState({score: 0});
       return true;
     }

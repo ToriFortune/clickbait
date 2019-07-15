@@ -1,17 +1,17 @@
 .card {
     padding: 2%;
     text-align: center;
-    background:aqua;
-    border-radius: 2px;
+    background: cornflowerblue;
+    
     margin: 1rem;
-    width: 200px;
+    width: 1000px;
 }
 
 .card> .img-container {
     height: 100%;
     overflow: hidden;
     text-align: center;
-    background: blueviolet;
+    background:lightblue;
 }
 .card > .img-container > img {
     width: 50%
