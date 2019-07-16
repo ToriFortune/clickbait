@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Wrapper from "./component/Wrapper"
-import Card from "./component/Card"
-import Header from "./component/Header";
+import Wrapper from "./component/Wrapper/Wrapper"
+import Card from "./component/Card/Card"
+import Header from "./component/Header/Header";
 import cards from "./cards.json";
 import "./App.css";
 
