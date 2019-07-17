@@ -8,6 +8,7 @@ import "./App.css";
 
 
 // To do: REFACTOR APP.JS STARTER CODE STARTING FROM BELOW COMMENTS, INCLUDE OTHER FILES TO BE IMPORTED CSS
+// deployment troubleshooting
 
 // class App extends Component{
 //   state={
