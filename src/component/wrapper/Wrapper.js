@@ -1,4 +1,4 @@
-import React from "./node_modules/react";
+import React from "react";
 import "./wrapper.css";
 
 const Wrapper = props => <div className="wrapper">{props.children}</div>;
